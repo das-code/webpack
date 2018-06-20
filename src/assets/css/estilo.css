@@ -1,5 +1,9 @@
 body {
-  background-color: red;
+  background-color: greenyellow;
+  background-image: url(../imgs/logo.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
   color: #fff;
   font-family: Arial, Helvetica, sans-serif;
 }
